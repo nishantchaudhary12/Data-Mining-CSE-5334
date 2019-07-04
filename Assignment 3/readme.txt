@@ -1,0 +1,1 @@
+The answer for all the 3 questions are in different word files. The results are included in the file as well. 

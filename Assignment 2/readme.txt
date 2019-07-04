@@ -1,0 +1,1 @@
+go to the file location and type #python assg2_Q1_Q2.py
